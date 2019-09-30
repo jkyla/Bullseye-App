@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Bullseye
 //
-//  Created by Jason Howard Kendall on 9/27/19.
+//  Created by Kyla Johnson on 9/27/19.
 //  Copyright © 2019 JHK. All rights reserved.
 //
 
